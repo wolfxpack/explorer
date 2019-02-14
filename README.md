@@ -7,7 +7,7 @@ This project is a fork of [Iquidus Explorer](https://github.com/iquidus/explorer
 
 ### See it in action
 
-*  [explorer.chaincoin.org](https://explorer.chaincoin.org)
+*  https://
 
 
 ### Requires
